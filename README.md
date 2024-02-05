@@ -6,4 +6,6 @@ This project can be divided into following sub categories:
   		b) EKS cluster setup using eksctl
                 c) Stateless & Stateful workload on Kubernetes
                 d) Metrics system for Kubernetes
-                e) Autoscaling nodes & workload on Kubernetes
+                e) Autoscaling nodes & workload on Kubernete
+
+Setting up environment
